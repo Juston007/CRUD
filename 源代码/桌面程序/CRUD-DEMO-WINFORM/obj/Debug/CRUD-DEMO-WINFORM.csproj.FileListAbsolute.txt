@@ -1,0 +1,10 @@
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\bin\Debug\CRUD-DEMO-WINFORM.exe.config
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\bin\Debug\CRUD-DEMO-WINFORM.exe
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\bin\Debug\CRUD-DEMO-WINFORM.pdb
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD-DEMO-WINFORM.csprojAssemblyReference.cache
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD_DEMO_WINFORM.Properties.Resources.resources
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD-DEMO-WINFORM.csproj.GenerateResource.cache
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD-DEMO-WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD-DEMO-WINFORM.exe
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD-DEMO-WINFORM.pdb
+C:\Users\Juston\source\repos\CRUD-DEMO-WINFORM\CRUD-DEMO-WINFORM\obj\Debug\CRUD_DEMO_WINFORM.MainForm.resources
